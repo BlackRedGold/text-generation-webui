@@ -49,3 +49,4 @@ wandb
 /Dockerfile
 .env
 .**/.env
+**/.env
